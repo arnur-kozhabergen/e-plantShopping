@@ -40,11 +40,11 @@ export const plantsArray = [
         "price": 20
       },
       {
-        "name": "Rubber Plant",
+        "name": "Round-leaf Succulent",
         "image": "https://cdn.pixabay.com/photo/2020/02/15/11/49/flower-4850729_1280.jpg",
-        "description": "A rubber plant for your growing collection. Nursery sample pricing.",
+        "description": "A small, round-leaf succulent for your growing collection. Nursery sample pricing.",
         "cost": "$17",
-        "id": "rubber-plant",
+        "id": "round-leaf-succulent",
         "price": 17
       },
       {
@@ -189,3 +189,4 @@ export default function ProductList({ onHomeClick }) {
     <footer className="site-footer"><span>Paradise Nursery</span><p>A student storefront. Illustrations appear when a starter photo is unavailable. Checkout is a demonstration.</p></footer>
   </>;
 }
+
